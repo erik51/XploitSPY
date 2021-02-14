@@ -60,7 +60,7 @@ It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https:/
 
 
 ## Buy us a Coffee
-   Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
+   Bitcoin : 32ntb3eGE7CjkkCXJ416Jfyrsp1kZ2ymKN
    
    Paypal : https://paypal.me/raomk
 
